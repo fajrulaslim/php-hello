@@ -1,8 +1,8 @@
 <?php 
 
-echo "Halo"
-echo "<br/>"
-echo "Selamat Datang"
+echo "Halo";
+echo "<br>";
+echo "Selamat Datang";
 
 
 ?>
